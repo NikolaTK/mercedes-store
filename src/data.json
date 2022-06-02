@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "name": "AMG Cap",
+            "images":["../public/images/cap/0.png", "../public/images/cap/1.png"],
+            "price":"39.90"
+        },
+        {
+            "name": "AMG Funktionslongsleeve Herren",
+            "images":["../public/images/Funktionslongsleeve Herren/0.png", "../public/images/Funktionslongsleeve Herren/1.png"],
+            "price":"49.90"
+        },
+        {
+            "name": "AMG Funktionsshirt Herren",
+            "images":["../public/images/FunktionsshirtHerren/0.png", "../public/images/FunktionsshirtHerren/1.png"],
+            "price":"59.90"
+        },
+        {
+            "name": "AMG Jacke Herren",
+            "images":["../public/images/JackeHerren/0.png", "../public/images/JackeHerren/1.png"],
+            "price":"249.90"
+        },
+        {
+            "name": "AMG Softshellweste Damen",
+            "images":["../public/images/SoftshellwesteDamen/0.png", "../public/images/SoftshellwesteDamen/1.png"],
+            "price":"169.90"
+        },
+        {
+            "name": "AMG Softshellweste Herren",
+            "images":["../public/images/cap/0.png", "../public/images/cap/1.png"],
+            "price":"169.90"
+        },
+        {
+            "name": "AMG Sporthose Herren",
+            "images":["../public/images/SporthoseHerren/0.png", "../public/images/SporthoseHerren/1.png"],
+            "price":"59.90"
+        },
+        {
+            "name": "AMG Sweatshirt",
+            "images":["../public/images/Sweatshirt/0.png", "../public/images/Sweatshirt/1.png"],
+            "price":"99.90"
+        }
+    ]
+}
