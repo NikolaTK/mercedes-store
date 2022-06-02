@@ -1,43 +1,83 @@
 {
     "data": [
         {
+            "id": 1,
             "name": "AMG Cap",
-            "images":["../public/images/cap/0.png", "../public/images/cap/1.png"],
+            "description": "Die perfekte Cap für echte AMG Fans! Aus rotem Baumwoll-Mix gefertigt, passt sich die AMG Cap dank größenverstellbarem Clipverschluss jeder Kopfform an und sorgt so stets für das Plus an Tragekomfort. Das Design wird von einem gummierten weißen 3D AMG Logo komplettiert.",
+            "material": "97 % Baumwolle/3 % Elasthan",
+            "colors":["Rot"],
+            "sizes":["M/L"],
+            "images":["assets/images/cap0.png", "assets/images/cap1.png"],
             "price":"39.90"
         },
         {
+            "id": 2,
             "name": "AMG Funktionslongsleeve Herren",
-            "images":["../public/images/Funktionslongsleeve Herren/0.png", "../public/images/Funktionslongsleeve Herren/1.png"],
+            "description": "Für den morgendlichen Run, das Kraftraining nach der Arbeit oder andere Sporteinheiten - das AMG Funktionslongsleeve punktet durch seine Funktionalität und Vielseitigkeit. Schließlich ist das Shirt nicht nur atmungsaktiv und leitet entstehende Feuchtigkeit von der Haut ab, sondern bietet mit seinem kleinen Stehkragen mit 1/4 Reißverschluss zudem das Plus an Tragekomfort. Ebenso wurde bei der Herstellung des Funktionslongsleeves an die FORMKNIT Technologie gedacht, bei der ein spezielles Strickdesign nahtlosen Komfort und eine auf Performence aufgelegte Passform verspricht. Perfekte Voraussetzungen für jedes Workout!",
+            "material": "88 % Polyester/12 % Nylon",
+            "colors":["schwarz"],
+            "sizes":["S", "M", "L", "XL", "XXL"],
+            "images":["assets/images/FunktionslongsleeveHerren0.png", "assets/images/FunktionslongsleeveHerren1.png"],
             "price":"49.90"
         },
         {
+            "id": 3,
             "name": "AMG Funktionsshirt Herren",
-            "images":["../public/images/FunktionsshirtHerren/0.png", "../public/images/FunktionsshirtHerren/1.png"],
+            "description": "Gemacht, um zu performen und das Training auf eine neue Ebene zu heben: Das Funktionsshirt für Herren mit Halbarm ist mit DRYCELL Technologie designt, sodass das technische Gewebe die beim Sport entstehende Feuchtigkeit von der Haut ableitet und stets für ein angenehm trockenes Hautgefühl sorgt. Um selbst bei intensiven Workouts von maximaler Atmungsaktivität zu profitieren und volle Bewegungsfreiheit zu genießen, wurde das Shirt zudem aus evoKNIT Strick gefertigt. Hier trifft kompromisslose Funktionalität auf echten Tragekomfort!",
+            "material": "Nylon/Polyester/Elasthan Mix",
+            "colors":["rot"],
+            "sizes":["S", "M", "L", "XL", "XXL"],
+            "images":["assets/images/FunktionsshirtHerren0.png", "assets/images/FunktionsshirtHerren1.png"],
             "price":"59.90"
         },
         {
+            "id": 4,
             "name": "AMG Jacke Herren",
-            "images":["../public/images/JackeHerren/0.png", "../public/images/JackeHerren/1.png"],
+            "description": "Egal für welches Klima, egal für welche Aktivität: Mit der AMG Herren-Jacke ist stets für kompromisslosen Tragekomfort gesorgt! Dazu ist die Oberseite der Jacke aus recyceltem Polyamid gefertigt, während die Wattierung aus recyceltem Polyester über die 37.5 Technologie® verfügt, die dem Körper dabei hilft, die eigene Kerntemperatur zu halten. Dazu setzt die Technologie auf patentierte aktive Partikel, die Feuchtigkeit bereits im Dampfstadium entfernen und so der Bildung von Schweißtropfen entgegenwirken. Das Ergebnis: mehr Leistungsstärke und trockener Tragekomfort über den gesamten Tag hinweg. Auch die Gestaltung der Details orientiert sich an dieser Performance: So ist die Herren-Jacke mit einer Kapuze mit Tunnelzug, schwarzer Kordel und Kordelstoppern ausgestattet, ebenso wie mit einem hochschließbaren Frontreißverschluss, den ein 3D AMG Logo ziert. Perfekte Bedingungen für jedes Wetter! In den seitlich schrägen Eingrifftaschen mit Reißverschluss sowie in der Brusttasche lassen sich zudem wichtige Kleinigkeiten wie Schlüssel verstauen. Ein schwarzes Kunststoff Badge mit weißem 3D AMG Logo auf der schwarzen Seite im Brustbereich sowie auf der roten Seite auf dem linken Ärmel runden das funktionale Design der Jacke ab.",
+            "material": "100 % Polyamid (recyceltes Polyamid)",
+            "colors":["rot", "schwarz"],
+            "sizes":["XS"],
+            "images":["assets/images/JackeHerren0.png", "assets/images/JackeHerren1.png"],
             "price":"249.90"
         },
         {
+            "id": 5,
             "name": "AMG Softshellweste Damen",
-            "images":["../public/images/SoftshellwesteDamen/0.png", "../public/images/SoftshellwesteDamen/1.png"],
+            "description": "Gemacht, um zu performen: Die AMG Softshellweste für Damen ist aus einem winddichten, atmungsaktiven 3-Lagen-Softshell-Laminat gefertigt und sorgt so selbst bei Anstrengung für ein angenehm trockenes Tragegefühl. Um für jede Wetterlage gerüstet zu sein, verfügt die Weste über eine abzippbare Kapuze mit roter Innenseite. Dank des Tunnelzuges mit roter Kordel und schwarzen Kordelstoppern lässt sich zudem die Größe der Kapuze mit wenigen Handgriffen regulieren.Verschlossen wird die Softshellweste durch einen wasserdichten Frontreißverschluss in Rot, den ein schwarzer 3D AMG Logo Zipperpuller ziert. Kleinigkeiten wie Schlüssel lassen sich zudem in den seitlichen Eingrifftaschen verstauen. Auch diese lassen sich durch einen laminierten und wasserdichten Reißverschluss verschließen. In der laminierten Innentasche befindet sich darüber hinaus ein praktischer Multimedia-Kabelausgang. Und auch die Details der Weste überzeugen auf ganzer Linie: So runden ein schwarzer 3D AMG Logodruck links im Brustbereich sowie ein vertikaler weißer AMG Logodruck im Rückenteil das Design der Softshellweste ab.",
+            "material": "49 % Polyester/34 % Polyamid/17 % Polyurethan",
+            "colors":["schwarz"],
+            "sizes":["XS", "S", "M", "L", "XL"],
+            "images":["assets/images/SoftshellwesteDamen0.png", "assets/images/SoftshellwesteDamen1.png"],
             "price":"169.90"
         },
         {
+            "id": 6,
             "name": "AMG Softshellweste Herren",
-            "images":["../public/images/cap/0.png", "../public/images/cap/1.png"],
+            "description": "Die AMG Softshellweste für Herren ist mit ihrem winddichten, atmungsaktiven 3-Lagen-Softshell-Laminat die ideale Ergänzung für einen aktiven Lebensstil. Neben ihrem hohen Tragekomfort punktet die Weste dabei mit einem hohen Maß an Funktionalität. Schlägt das Wetter plötzlich um, lässt sich etwa die abzippbare Kapuze mit roter Innenseite einsetzen. Dank des Tunnelzugs mit roter Kordel und schwarzen Kordelstoppern lässt sich zudem die Größe der Kaupze regulieren, während der Verschluss der Weste durch einen wasserdichten Frontreißverschluss in Rot erfolgt. Auch der Saum der Softshellweste lässt sich durch eine elastische Kordel in Rot regulieren. Kleinigkeiten wie Taschentücher oder Schlüssel lassen sich wiederum in den seitlichen Eingrifftaschen verstauen. Auch diese werden mithilfe von laminierten und wasserdichten Reißverschlüssen in Schwarz verschlossen. In der laminierten Innentasche findet sich zudem ein praktischer Multimedia-Kabelausgang. Sportlich präsentiert sich auch das Design der Weste, das von einem schwarzen 3D AMG Logodruck im linken Brustbereich sowie einem vertikalen, weißen AMG Logodruck im Rückenteil abgerundet wird.",
+            "material": "49 % Polyester/34 % Polyamid/17 % Polyurethan",
+            "colors":["black"],
+            "sizes":["XS", "S", "M", "L", "XL", "XXL", "XXXL"],
+            "images":["assets/images/SoftshellwesteHerren0.png", "assets/images/SoftshellwesteHerren1.png"],
             "price":"169.90"
         },
         {
+            "id": 7,
             "name": "AMG Sporthose Herren",
-            "images":["../public/images/SporthoseHerren/0.png", "../public/images/SporthoseHerren/1.png"],
+            "description": "Designt, um sportlich zu performen: Die AMG Herren-Sporthose, in den Farben Schwarz und Rot, bietet dank Gummibund mit Kordelzug maximalen Tragekomfort während des Sports und verfügt zudem über eine praktische Innenhose. Während sich in den zwei seitlichen Eingriffstaschen Kleinigkeiten wie Schlüssel auch während des Workouts verstauen lassen, rundet die seitliche rote Paspel den sportlichen Look der Hose gekonnt ab.",
+            "material": "83 % Polyester/17 % Elasthan",
+            "colors":["rot"],
+            "sizes":["S", "M", "L", "XL", "XXL"],
+            "images":["assets/images/SporthoseHerren0.png", "assets/images/SporthoseHerren1.png"],
             "price":"59.90"
         },
         {
+            "id": 8,
             "name": "AMG Sweatshirt",
-            "images":["../public/images/Sweatshirt/0.png", "../public/images/Sweatshirt/1.png"],
+            "description": "Weicher Komfort für die kalten Tage des Jahres: Aus 87 % hochwertiger Baumwolle (Biobaumwolle) gefertigt, kann das AMG Sweatshirt von Frauen und Männern gleichermaßen getragen werden. Mit seinem 1x1 Rippbünchen an Halsausschnitt und an den bequemen Ärmel- und Saumabschlüssen ist dabei stets für das Plus an Tragekomfort gesorgt. Und auch optisch hat das Sweatshirt viel zu bieten und trumpft mit einem Nackenspiegel in Schwarz mit gedruckten weißen AMG Logo, einem schwarzen Nackenband mit eingewebtem AMG Logo und einem matten rechteckigen Aufdruck mit ausgespartem AMG Logo im Brustbereich auf.",
+            "material": "87 % Baumwolle (Biobaumwolle)/13 % Polyester (recyceltes Polyester)",
+            "colors":["rot"],
+            "sizes":["XXS", "XS", "S", "M", "L", "XL", "XXL", "XXXL"],
+            "images":["assets/images/Sweatshirt0.png", "assets/images/Sweatshirt1.png"],
             "price":"99.90"
         }
     ]

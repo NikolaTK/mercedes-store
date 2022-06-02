@@ -1,14 +1,18 @@
 <template>
     <div>
-        <h1>Products List Page</h1>
+        <h1>Products List</h1>
+        <prodName />
     </div>
 </template>
 
 <script>
+
+import prodName from '../components/displayProductsList.vue'
+
 export default {
-  name: 'ProductListView'// ,
-//   components: {
-//     HelloWorld
-//   }
+  name: 'ProductListView',
+   components: {
+     prodName
+   }
 }
 </script>
