@@ -7,7 +7,7 @@
             "material": "97 % Baumwolle/3 % Elasthan",
             "colors":["Rot"],
             "sizes":["M/L"],
-            "images":["assets/images/cap0.png", "assets/images/cap1.png"],
+            "images":["assets/cap0.png", "assets/cap1.png"],
             "price":"39.90"
         },
         {
@@ -17,7 +17,7 @@
             "material": "88 % Polyester/12 % Nylon",
             "colors":["schwarz"],
             "sizes":["S", "M", "L", "XL", "XXL"],
-            "images":["assets/images/FunktionslongsleeveHerren0.png", "assets/images/FunktionslongsleeveHerren1.png"],
+            "images":["assets/FunktionslongsleeveHerren0.png", "assets/FunktionslongsleeveHerren1.png"],
             "price":"49.90"
         },
         {
@@ -27,7 +27,7 @@
             "material": "Nylon/Polyester/Elasthan Mix",
             "colors":["rot"],
             "sizes":["S", "M", "L", "XL", "XXL"],
-            "images":["assets/images/FunktionsshirtHerren0.png", "assets/images/FunktionsshirtHerren1.png"],
+            "images":["assets/FunktionsshirtHerren0.png", "assets/FunktionsshirtHerren1.png"],
             "price":"59.90"
         },
         {
@@ -37,7 +37,7 @@
             "material": "100 % Polyamid (recyceltes Polyamid)",
             "colors":["rot", "schwarz"],
             "sizes":["XS"],
-            "images":["assets/images/JackeHerren0.png", "assets/images/JackeHerren1.png"],
+            "images":["assets/JackeHerren0.png", "assets/JackeHerren1.png"],
             "price":"249.90"
         },
         {
@@ -47,7 +47,7 @@
             "material": "49 % Polyester/34 % Polyamid/17 % Polyurethan",
             "colors":["schwarz"],
             "sizes":["XS", "S", "M", "L", "XL"],
-            "images":["assets/images/SoftshellwesteDamen0.png", "assets/images/SoftshellwesteDamen1.png"],
+            "images":["assets/SoftshellwesteDamen0.png", "assets/SoftshellwesteDamen1.png"],
             "price":"169.90"
         },
         {
@@ -57,7 +57,7 @@
             "material": "49 % Polyester/34 % Polyamid/17 % Polyurethan",
             "colors":["black"],
             "sizes":["XS", "S", "M", "L", "XL", "XXL", "XXXL"],
-            "images":["assets/images/SoftshellwesteHerren0.png", "assets/images/SoftshellwesteHerren1.png"],
+            "images":["assets/SoftshellwesteHerren0.png", "assets/SoftshellwesteHerren1.png"],
             "price":"169.90"
         },
         {
@@ -67,7 +67,7 @@
             "material": "83 % Polyester/17 % Elasthan",
             "colors":["rot"],
             "sizes":["S", "M", "L", "XL", "XXL"],
-            "images":["assets/images/SporthoseHerren0.png", "assets/images/SporthoseHerren1.png"],
+            "images":["assets/SporthoseHerren0.png", "assets/SporthoseHerren1.png"],
             "price":"59.90"
         },
         {
@@ -77,7 +77,7 @@
             "material": "87 % Baumwolle (Biobaumwolle)/13 % Polyester (recyceltes Polyester)",
             "colors":["rot"],
             "sizes":["XXS", "XS", "S", "M", "L", "XL", "XXL", "XXXL"],
-            "images":["assets/images/Sweatshirt0.png", "assets/images/Sweatshirt1.png"],
+            "images":["assets/Sweatshirt0.png", "assets/Sweatshirt1.png"],
             "price":"99.90"
         }
     ]

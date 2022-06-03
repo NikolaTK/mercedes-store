@@ -12,14 +12,17 @@ const routes = [
     component: ProductListView
   },
   {
-    path: '/productDetails',
+    path: '/productDetails/:id',
     name: 'ProductDetailsView',
-    component: ProductDetailsView
+    component: ProductDetailsView,
+    props: true
   }
 ]
 
 const router = new VueRouter({
   routes
 })
+
+router.mode='history'
 
 export default router
