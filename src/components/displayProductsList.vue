@@ -2,7 +2,8 @@
     <div>
         <ul>
             <product-item v-for="item in productsData"
-                :key="item.id" :product = item>
+                :key="item.id" 
+                :product = item>
             </product-item>
         </ul>
         <h2>

@@ -11,10 +11,8 @@
 <script>
 export default {
     props: {
-        product: Object// ,
-        // productDetails: '/productDetails/'
+        product: Object
     },
-    // For some reason it didn't work as a prop.
     computed: {
         productDetails: function() {
             return 'productDetails/'
